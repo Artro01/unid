@@ -1,1 +1,0 @@
-'/api_productos/?', 'application.api.productos.api_productos.Api_productos',
